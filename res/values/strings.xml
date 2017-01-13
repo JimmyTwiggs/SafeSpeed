@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeSpeed</string>
+    <string name="current_speed">Current Speed: </string>
+    <string name="initial_speed">-.-</string>
+    <string name="units">Mph</string>
+    <string name="on_off">Power</string>
+    <string name="device_admin">SafeSpeed</string>
+    <string name="device_admin_description">Will Use To Lock Device With User Permission.</string>
+    <string name="phone">Button for phone</string>
+    <string name="text">Button for text</string>
+    <string name="email">Button for email</string>
+    <string name="music">Button for music</string>
+    <string name="warning">Distracted Driving leads to over 1.6 million vehicle crashes each year. Are you sure you wish to proceed?</string>
+    <string name="image">Image of Car Crash</string>
+</resources>

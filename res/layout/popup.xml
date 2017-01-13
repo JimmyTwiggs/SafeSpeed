@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="UseCompoundDrawables">
+
+    <TextView 
+        android:id="@+id/popUpMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text= "@string/warning"
+        android:gravity="center" />
+        
+    <ImageView 
+        android:id="@+id/popUpImage"
+        android:contentDescription="@string/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/car_crash1" />
+</LinearLayout>
